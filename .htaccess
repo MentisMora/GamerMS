@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} /(.*).html
+RewriteRule (.*) /index.php?include=%1
