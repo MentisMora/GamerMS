@@ -1,6 +1,6 @@
 <?php
 
-$dbpraefix = "cms_";
+$dbpraefix = "gamerms_";
 
 $dbhost = "localhost";
 
